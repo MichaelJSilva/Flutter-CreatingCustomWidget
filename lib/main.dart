@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.deepPurple,
         ),
         home: Scaffold(
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.deepPurple,
           body: Center(
               child: Padding(
                   padding: new EdgeInsets.all(8.0),
